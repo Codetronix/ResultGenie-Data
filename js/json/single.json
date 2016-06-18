@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "name": "Conway Alford",
+    "USN": "4MH11EC000",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 10,
+        "externalMarks": 47,
+        "totalMarks": 57,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 82,
+        "totalMarks": 107,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 20,
+        "totalMarks": 40,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 24,
+        "externalMarks": 3,
+        "totalMarks": 27,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 5,
+        "externalMarks": 54,
+        "totalMarks": 59,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 4,
+        "externalMarks": 26,
+        "totalMarks": 30,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  }
+]

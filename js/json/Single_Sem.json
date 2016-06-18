@@ -1,0 +1,7682 @@
+[
+  {
+    "index": 0,
+    "name": "Thomas Henson",
+    "USN": "4MH11EC000",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 12,
+        "externalMarks": 100,
+        "totalMarks": 112,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 49,
+        "totalMarks": 68,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 6,
+        "externalMarks": 62,
+        "totalMarks": 68,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 86,
+        "totalMarks": 88,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 3,
+        "externalMarks": 13,
+        "totalMarks": 16,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 13,
+        "externalMarks": 91,
+        "totalMarks": 104,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 1,
+    "name": "Wendy Horton",
+    "USN": "4MH11EC001",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 31,
+        "totalMarks": 47,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 85,
+        "totalMarks": 104,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 23,
+        "externalMarks": 97,
+        "totalMarks": 120,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 18,
+        "externalMarks": 47,
+        "totalMarks": 65,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 57,
+        "totalMarks": 59,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 8,
+        "totalMarks": 29,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 2,
+    "name": "Zelma Mckenzie",
+    "USN": "4MH11EC002",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 82,
+        "totalMarks": 85,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 5,
+        "externalMarks": 31,
+        "totalMarks": 36,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 47,
+        "totalMarks": 55,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 58,
+        "totalMarks": 60,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 20,
+        "externalMarks": 70,
+        "totalMarks": 90,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 80,
+        "totalMarks": 89,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 3,
+    "name": "Bass Fischer",
+    "USN": "4MH11EC003",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 99,
+        "totalMarks": 102,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 15,
+        "externalMarks": 91,
+        "totalMarks": 106,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 25,
+        "externalMarks": 33,
+        "totalMarks": 58,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 10,
+        "externalMarks": 40,
+        "totalMarks": 50,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 40,
+        "totalMarks": 42,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 23,
+        "externalMarks": 90,
+        "totalMarks": 113,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 4,
+    "name": "Glover Golden",
+    "USN": "4MH11EC004",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 24,
+        "externalMarks": 28,
+        "totalMarks": 52,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 4,
+        "externalMarks": 67,
+        "totalMarks": 71,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 30,
+        "totalMarks": 50,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 7,
+        "externalMarks": 55,
+        "totalMarks": 62,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 11,
+        "externalMarks": 38,
+        "totalMarks": 49,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 12,
+        "externalMarks": 88,
+        "totalMarks": 100,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 5,
+    "name": "Shepherd Schroeder",
+    "USN": "4MH11EC005",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 10,
+        "externalMarks": 55,
+        "totalMarks": 65,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 93,
+        "totalMarks": 118,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 5,
+        "totalMarks": 25,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 78,
+        "totalMarks": 82,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 81,
+        "totalMarks": 95,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 20,
+        "externalMarks": 20,
+        "totalMarks": 40,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 6,
+    "name": "Bianca Gould",
+    "USN": "4MH11EC006",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 21,
+        "externalMarks": 66,
+        "totalMarks": 87,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 12,
+        "externalMarks": 93,
+        "totalMarks": 105,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 3,
+        "externalMarks": 38,
+        "totalMarks": 41,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 21,
+        "externalMarks": 74,
+        "totalMarks": 95,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 6,
+        "totalMarks": 30,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 69,
+        "totalMarks": 94,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 7,
+    "name": "Hardin Wright",
+    "USN": "4MH11EC007",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 9,
+        "externalMarks": 77,
+        "totalMarks": 86,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 5,
+        "externalMarks": 69,
+        "totalMarks": 74,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 6,
+        "externalMarks": 99,
+        "totalMarks": 105,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 86,
+        "totalMarks": 90,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 39,
+        "totalMarks": 63,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 71,
+        "totalMarks": 96,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 8,
+    "name": "Dale Battle",
+    "USN": "4MH11EC008",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 24,
+        "externalMarks": 87,
+        "totalMarks": 111,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 58,
+        "totalMarks": 60,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 5,
+        "externalMarks": 56,
+        "totalMarks": 61,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 17,
+        "externalMarks": 91,
+        "totalMarks": 108,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 17,
+        "externalMarks": 10,
+        "totalMarks": 27,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 16,
+        "externalMarks": 33,
+        "totalMarks": 49,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 9,
+    "name": "Becky Valentine",
+    "USN": "4MH11EC009",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 7,
+        "totalMarks": 21,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 56,
+        "totalMarks": 59,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 42,
+        "totalMarks": 58,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 7,
+        "externalMarks": 40,
+        "totalMarks": 47,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 8,
+        "externalMarks": 59,
+        "totalMarks": 67,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 8,
+        "externalMarks": 84,
+        "totalMarks": 92,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 10,
+    "name": "Francis Shelton",
+    "USN": "4MH11EC010",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 8,
+        "externalMarks": 51,
+        "totalMarks": 59,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 29,
+        "totalMarks": 38,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 59,
+        "totalMarks": 71,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 51,
+        "totalMarks": 74,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 91,
+        "totalMarks": 97,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 11,
+        "externalMarks": 75,
+        "totalMarks": 86,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 11,
+    "name": "Goodwin Dickerson",
+    "USN": "4MH11EC011",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 9,
+        "totalMarks": 27,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 8,
+        "externalMarks": 7,
+        "totalMarks": 15,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 43,
+        "totalMarks": 51,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 15,
+        "externalMarks": 27,
+        "totalMarks": 42,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 7,
+        "externalMarks": 99,
+        "totalMarks": 106,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 97,
+        "totalMarks": 107,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 12,
+    "name": "Carson Oconnor",
+    "USN": "4MH11EC012",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 15,
+        "externalMarks": 90,
+        "totalMarks": 105,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 13,
+        "externalMarks": 6,
+        "totalMarks": 19,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 14,
+        "totalMarks": 25,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 9,
+        "totalMarks": 32,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 21,
+        "externalMarks": 91,
+        "totalMarks": 112,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 23,
+        "externalMarks": 4,
+        "totalMarks": 27,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 13,
+    "name": "Kane Deleon",
+    "USN": "4MH11EC013",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 12,
+        "externalMarks": 5,
+        "totalMarks": 17,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 9,
+        "totalMarks": 33,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 12,
+        "totalMarks": 32,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 73,
+        "totalMarks": 86,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 18,
+        "externalMarks": 7,
+        "totalMarks": 25,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 19,
+        "externalMarks": 14,
+        "totalMarks": 33,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 14,
+    "name": "Chase Bradley",
+    "USN": "4MH11EC014",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 5,
+        "externalMarks": 53,
+        "totalMarks": 58,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 96,
+        "totalMarks": 106,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 49,
+        "totalMarks": 69,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 20,
+        "externalMarks": 26,
+        "totalMarks": 46,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 22,
+        "totalMarks": 36,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 36,
+        "totalMarks": 46,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 15,
+    "name": "Lopez Bowen",
+    "USN": "4MH11EC015",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 23,
+        "externalMarks": 45,
+        "totalMarks": 68,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 15,
+        "externalMarks": 11,
+        "totalMarks": 26,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 94,
+        "totalMarks": 102,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 26,
+        "totalMarks": 45,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 20,
+        "externalMarks": 89,
+        "totalMarks": 109,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 100,
+        "totalMarks": 114,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 16,
+    "name": "Johnson Ratliff",
+    "USN": "4MH11EC016",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 68,
+        "totalMarks": 88,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 1,
+        "totalMarks": 22,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 70,
+        "totalMarks": 92,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 100,
+        "totalMarks": 102,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 77,
+        "totalMarks": 102,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 4,
+        "externalMarks": 25,
+        "totalMarks": 29,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 17,
+    "name": "Keller Case",
+    "USN": "4MH11EC017",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 13,
+        "externalMarks": 40,
+        "totalMarks": 53,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 6,
+        "externalMarks": 32,
+        "totalMarks": 38,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 14,
+        "externalMarks": 14,
+        "totalMarks": 28,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 10,
+        "externalMarks": 39,
+        "totalMarks": 49,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 16,
+        "totalMarks": 41,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 24,
+        "externalMarks": 37,
+        "totalMarks": 61,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 18,
+    "name": "Suzette Franklin",
+    "USN": "4MH11EC018",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 32,
+        "totalMarks": 48,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 8,
+        "totalMarks": 32,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 3,
+        "externalMarks": 88,
+        "totalMarks": 91,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 4,
+        "totalMarks": 18,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 20,
+        "externalMarks": 2,
+        "totalMarks": 22,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 23,
+        "externalMarks": 37,
+        "totalMarks": 60,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 19,
+    "name": "Florine Rhodes",
+    "USN": "4MH11EC019",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 14,
+        "totalMarks": 16,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 12,
+        "externalMarks": 97,
+        "totalMarks": 109,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 19,
+        "externalMarks": 11,
+        "totalMarks": 30,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 9,
+        "externalMarks": 32,
+        "totalMarks": 41,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 10,
+        "externalMarks": 51,
+        "totalMarks": 61,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 44,
+        "totalMarks": 54,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 20,
+    "name": "Melton Villarreal",
+    "USN": "4MH11EC020",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 2,
+        "totalMarks": 5,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 42,
+        "totalMarks": 67,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 1,
+        "externalMarks": 61,
+        "totalMarks": 62,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 78,
+        "totalMarks": 92,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 19,
+        "externalMarks": 20,
+        "totalMarks": 39,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 62,
+        "totalMarks": 87,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 21,
+    "name": "Vilma Gill",
+    "USN": "4MH11EC021",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 1,
+        "externalMarks": 40,
+        "totalMarks": 41,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 61,
+        "totalMarks": 63,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 37,
+        "totalMarks": 48,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 61,
+        "totalMarks": 74,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 11,
+        "externalMarks": 44,
+        "totalMarks": 55,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 8,
+        "externalMarks": 77,
+        "totalMarks": 85,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 22,
+    "name": "Charity Perkins",
+    "USN": "4MH11EC022",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 15,
+        "externalMarks": 51,
+        "totalMarks": 66,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 5,
+        "externalMarks": 74,
+        "totalMarks": 79,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 13,
+        "externalMarks": 49,
+        "totalMarks": 62,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 41,
+        "totalMarks": 66,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 48,
+        "totalMarks": 52,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 1,
+        "externalMarks": 40,
+        "totalMarks": 41,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 23,
+    "name": "Lizzie Mccarty",
+    "USN": "4MH11EC023",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 17,
+        "totalMarks": 23,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 16,
+        "totalMarks": 26,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 1,
+        "externalMarks": 82,
+        "totalMarks": 83,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 82,
+        "totalMarks": 96,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 11,
+        "externalMarks": 10,
+        "totalMarks": 21,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 2,
+        "externalMarks": 55,
+        "totalMarks": 57,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 24,
+    "name": "Fitzgerald Alexander",
+    "USN": "4MH11EC024",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 32,
+        "totalMarks": 54,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 91,
+        "totalMarks": 110,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 84,
+        "totalMarks": 106,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 54,
+        "totalMarks": 58,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 38,
+        "totalMarks": 61,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 7,
+        "totalMarks": 28,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 25,
+    "name": "Mcgowan Knapp",
+    "USN": "4MH11EC025",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 4,
+        "externalMarks": 13,
+        "totalMarks": 17,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 15,
+        "totalMarks": 26,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 10,
+        "externalMarks": 55,
+        "totalMarks": 65,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 75,
+        "totalMarks": 100,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 16,
+        "externalMarks": 64,
+        "totalMarks": 80,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 11,
+        "externalMarks": 94,
+        "totalMarks": 105,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 26,
+    "name": "Greta Parks",
+    "USN": "4MH11EC026",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 35,
+        "totalMarks": 49,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 14,
+        "externalMarks": 74,
+        "totalMarks": 88,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 3,
+        "externalMarks": 55,
+        "totalMarks": 58,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 43,
+        "totalMarks": 47,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 19,
+        "externalMarks": 16,
+        "totalMarks": 35,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 93,
+        "totalMarks": 103,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 27,
+    "name": "Liliana Lott",
+    "USN": "4MH11EC027",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 84,
+        "totalMarks": 95,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 86,
+        "totalMarks": 89,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 42,
+        "totalMarks": 50,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 3,
+        "externalMarks": 19,
+        "totalMarks": 22,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 24,
+        "totalMarks": 38,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 28,
+        "totalMarks": 38,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 28,
+    "name": "Trudy Pittman",
+    "USN": "4MH11EC028",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 4,
+        "totalMarks": 23,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 1,
+        "externalMarks": 53,
+        "totalMarks": 54,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 48,
+        "totalMarks": 65,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 8,
+        "totalMarks": 21,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 13,
+        "totalMarks": 17,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 58,
+        "totalMarks": 79,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 29,
+    "name": "Taylor Donovan",
+    "USN": "4MH11EC029",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 8,
+        "externalMarks": 4,
+        "totalMarks": 12,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 2,
+        "totalMarks": 18,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 50,
+        "totalMarks": 67,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 7,
+        "externalMarks": 99,
+        "totalMarks": 106,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 42,
+        "totalMarks": 65,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 20,
+        "externalMarks": 45,
+        "totalMarks": 65,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 30,
+    "name": "Betsy Sexton",
+    "USN": "4MH11EC030",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 1,
+        "externalMarks": 35,
+        "totalMarks": 36,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 68,
+        "totalMarks": 77,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 26,
+        "totalMarks": 46,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 66,
+        "totalMarks": 70,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 3,
+        "externalMarks": 46,
+        "totalMarks": 49,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 59,
+        "totalMarks": 74,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 31,
+    "name": "Gray Davidson",
+    "USN": "4MH11EC031",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 25,
+        "externalMarks": 55,
+        "totalMarks": 80,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 6,
+        "externalMarks": 89,
+        "totalMarks": 95,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 23,
+        "externalMarks": 53,
+        "totalMarks": 76,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 15,
+        "totalMarks": 19,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 20,
+        "externalMarks": 79,
+        "totalMarks": 99,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 18,
+        "externalMarks": 29,
+        "totalMarks": 47,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 32,
+    "name": "Payne Roberts",
+    "USN": "4MH11EC032",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 19,
+        "totalMarks": 33,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 6,
+        "totalMarks": 9,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 59,
+        "totalMarks": 81,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 22,
+        "externalMarks": 6,
+        "totalMarks": 28,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 5,
+        "externalMarks": 39,
+        "totalMarks": 44,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 3,
+        "externalMarks": 64,
+        "totalMarks": 67,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 33,
+    "name": "Katheryn Cherry",
+    "USN": "4MH11EC033",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 23,
+        "externalMarks": 29,
+        "totalMarks": 52,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 71,
+        "totalMarks": 92,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 24,
+        "externalMarks": 24,
+        "totalMarks": 48,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 31,
+        "totalMarks": 43,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 16,
+        "externalMarks": 41,
+        "totalMarks": 57,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 15,
+        "totalMarks": 25,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 34,
+    "name": "Glass Love",
+    "USN": "4MH11EC034",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 51,
+        "totalMarks": 57,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 33,
+        "totalMarks": 44,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 62,
+        "totalMarks": 70,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 23,
+        "totalMarks": 25,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 13,
+        "externalMarks": 5,
+        "totalMarks": 18,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 67,
+        "totalMarks": 77,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 35,
+    "name": "Charlotte Barry",
+    "USN": "4MH11EC035",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 11,
+        "totalMarks": 29,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 18,
+        "externalMarks": 20,
+        "totalMarks": 38,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 5,
+        "externalMarks": 33,
+        "totalMarks": 38,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 1,
+        "totalMarks": 24,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 49,
+        "totalMarks": 50,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 11,
+        "totalMarks": 36,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 36,
+    "name": "Clare Mcfarland",
+    "USN": "4MH11EC036",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 64,
+        "totalMarks": 84,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 52,
+        "totalMarks": 73,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 6,
+        "externalMarks": 81,
+        "totalMarks": 87,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 22,
+        "externalMarks": 78,
+        "totalMarks": 100,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 64,
+        "totalMarks": 66,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 17,
+        "externalMarks": 68,
+        "totalMarks": 85,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 37,
+    "name": "Wilder Finley",
+    "USN": "4MH11EC037",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 15,
+        "externalMarks": 71,
+        "totalMarks": 86,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 26,
+        "totalMarks": 50,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 15,
+        "totalMarks": 27,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 1,
+        "externalMarks": 82,
+        "totalMarks": 83,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 88,
+        "totalMarks": 89,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 5,
+        "externalMarks": 90,
+        "totalMarks": 95,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 38,
+    "name": "Lott Fletcher",
+    "USN": "4MH11EC038",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 13,
+        "externalMarks": 78,
+        "totalMarks": 91,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 70,
+        "totalMarks": 72,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 64,
+        "totalMarks": 72,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 18,
+        "externalMarks": 27,
+        "totalMarks": 45,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 17,
+        "externalMarks": 54,
+        "totalMarks": 71,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 87,
+        "totalMarks": 108,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 39,
+    "name": "Martha Garza",
+    "USN": "4MH11EC039",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 44,
+        "totalMarks": 64,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 5,
+        "totalMarks": 26,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 48,
+        "totalMarks": 70,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 70,
+        "totalMarks": 72,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 99,
+        "totalMarks": 122,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 13,
+        "externalMarks": 31,
+        "totalMarks": 44,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 40,
+    "name": "Kellie Dyer",
+    "USN": "4MH11EC040",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 5,
+        "externalMarks": 16,
+        "totalMarks": 21,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 59,
+        "totalMarks": 62,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 9,
+        "externalMarks": 77,
+        "totalMarks": 86,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 20,
+        "externalMarks": 75,
+        "totalMarks": 95,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 78,
+        "totalMarks": 84,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 11,
+        "externalMarks": 49,
+        "totalMarks": 60,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 41,
+    "name": "Joyner Johnston",
+    "USN": "4MH11EC041",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 1,
+        "externalMarks": 40,
+        "totalMarks": 41,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 23,
+        "externalMarks": 10,
+        "totalMarks": 33,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 15,
+        "totalMarks": 31,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 21,
+        "externalMarks": 93,
+        "totalMarks": 114,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 63,
+        "totalMarks": 88,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 1,
+        "externalMarks": 85,
+        "totalMarks": 86,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 42,
+    "name": "Shelly Barlow",
+    "USN": "4MH11EC042",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 26,
+        "totalMarks": 40,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 92,
+        "totalMarks": 117,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 23,
+        "externalMarks": 38,
+        "totalMarks": 61,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 8,
+        "externalMarks": 80,
+        "totalMarks": 88,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 99,
+        "totalMarks": 100,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 24,
+        "externalMarks": 46,
+        "totalMarks": 70,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 43,
+    "name": "Oconnor Ortiz",
+    "USN": "4MH11EC043",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 15,
+        "totalMarks": 26,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 91,
+        "totalMarks": 115,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 19,
+        "externalMarks": 94,
+        "totalMarks": 113,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 52,
+        "totalMarks": 77,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 44,
+        "totalMarks": 67,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 22,
+        "externalMarks": 4,
+        "totalMarks": 26,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 44,
+    "name": "Stanley Guthrie",
+    "USN": "4MH11EC044",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 68,
+        "totalMarks": 87,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 6,
+        "externalMarks": 91,
+        "totalMarks": 97,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 9,
+        "externalMarks": 51,
+        "totalMarks": 60,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 70,
+        "totalMarks": 86,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 18,
+        "externalMarks": 16,
+        "totalMarks": 34,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 72,
+        "totalMarks": 87,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 45,
+    "name": "Holt Cervantes",
+    "USN": "4MH11EC045",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 9,
+        "externalMarks": 14,
+        "totalMarks": 23,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 14,
+        "externalMarks": 59,
+        "totalMarks": 73,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 21,
+        "externalMarks": 8,
+        "totalMarks": 29,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 5,
+        "totalMarks": 17,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 80,
+        "totalMarks": 86,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 17,
+        "externalMarks": 46,
+        "totalMarks": 63,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 46,
+    "name": "Roy Sharpe",
+    "USN": "4MH11EC046",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 66,
+        "totalMarks": 80,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 58,
+        "totalMarks": 60,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 15,
+        "externalMarks": 78,
+        "totalMarks": 93,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 63,
+        "totalMarks": 67,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 99,
+        "totalMarks": 122,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 17,
+        "totalMarks": 42,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 47,
+    "name": "Lakeisha Guerrero",
+    "USN": "4MH11EC047",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 62,
+        "totalMarks": 81,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 79,
+        "totalMarks": 81,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 19,
+        "externalMarks": 51,
+        "totalMarks": 70,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 28,
+        "totalMarks": 40,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 15,
+        "externalMarks": 21,
+        "totalMarks": 36,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 19,
+        "externalMarks": 23,
+        "totalMarks": 42,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 48,
+    "name": "Maricela Ball",
+    "USN": "4MH11EC048",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 11,
+        "totalMarks": 14,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 17,
+        "externalMarks": 74,
+        "totalMarks": 91,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 5,
+        "externalMarks": 50,
+        "totalMarks": 55,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 22,
+        "totalMarks": 47,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 28,
+        "totalMarks": 53,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 16,
+        "externalMarks": 83,
+        "totalMarks": 99,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 49,
+    "name": "Watson Whitehead",
+    "USN": "4MH11EC049",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 24,
+        "externalMarks": 74,
+        "totalMarks": 98,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 39,
+        "totalMarks": 48,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 42,
+        "totalMarks": 54,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 41,
+        "totalMarks": 46,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 67,
+        "totalMarks": 92,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 83,
+        "totalMarks": 92,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 50,
+    "name": "Maria Pearson",
+    "USN": "4MH11EC050",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 8,
+        "externalMarks": 78,
+        "totalMarks": 86,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 23,
+        "externalMarks": 39,
+        "totalMarks": 62,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 4,
+        "externalMarks": 78,
+        "totalMarks": 82,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 35,
+        "totalMarks": 37,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 17,
+        "externalMarks": 30,
+        "totalMarks": 47,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 13,
+        "externalMarks": 87,
+        "totalMarks": 100,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 51,
+    "name": "Abigail Lee",
+    "USN": "4MH11EC051",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 8,
+        "externalMarks": 21,
+        "totalMarks": 29,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 65,
+        "totalMarks": 89,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 41,
+        "totalMarks": 52,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 24,
+        "externalMarks": 30,
+        "totalMarks": 54,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 7,
+        "externalMarks": 40,
+        "totalMarks": 47,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 6,
+        "externalMarks": 58,
+        "totalMarks": 64,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 52,
+    "name": "Nadia Carney",
+    "USN": "4MH11EC052",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 14,
+        "totalMarks": 36,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 62,
+        "totalMarks": 65,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 21,
+        "externalMarks": 22,
+        "totalMarks": 43,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 92,
+        "totalMarks": 97,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 44,
+        "totalMarks": 69,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 14,
+        "totalMarks": 29,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 53,
+    "name": "Autumn Flowers",
+    "USN": "4MH11EC053",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 23,
+        "externalMarks": 36,
+        "totalMarks": 59,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 24,
+        "externalMarks": 7,
+        "totalMarks": 31,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 4,
+        "externalMarks": 15,
+        "totalMarks": 19,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 71,
+        "totalMarks": 85,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 80,
+        "totalMarks": 94,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 3,
+        "totalMarks": 24,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 54,
+    "name": "Annette Chase",
+    "USN": "4MH11EC054",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 17,
+        "externalMarks": 63,
+        "totalMarks": 80,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 18,
+        "externalMarks": 23,
+        "totalMarks": 41,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 15,
+        "externalMarks": 45,
+        "totalMarks": 60,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 86,
+        "totalMarks": 109,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 84,
+        "totalMarks": 85,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 3,
+        "externalMarks": 75,
+        "totalMarks": 78,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 55,
+    "name": "Mccray Barrett",
+    "USN": "4MH11EC055",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 32,
+        "totalMarks": 34,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 30,
+        "totalMarks": 46,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 21,
+        "externalMarks": 67,
+        "totalMarks": 88,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 12,
+        "totalMarks": 25,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 16,
+        "externalMarks": 29,
+        "totalMarks": 45,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 7,
+        "externalMarks": 76,
+        "totalMarks": 83,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 56,
+    "name": "Nguyen Hughes",
+    "USN": "4MH11EC056",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 15,
+        "externalMarks": 60,
+        "totalMarks": 75,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 11,
+        "totalMarks": 21,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 10,
+        "externalMarks": 27,
+        "totalMarks": 37,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 8,
+        "totalMarks": 20,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 17,
+        "externalMarks": 28,
+        "totalMarks": 45,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 23,
+        "totalMarks": 44,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 57,
+    "name": "Penelope Chandler",
+    "USN": "4MH11EC057",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 5,
+        "externalMarks": 85,
+        "totalMarks": 90,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 22,
+        "externalMarks": 54,
+        "totalMarks": 76,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 14,
+        "totalMarks": 26,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 10,
+        "externalMarks": 87,
+        "totalMarks": 97,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 14,
+        "totalMarks": 16,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 28,
+        "totalMarks": 53,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 58,
+    "name": "Aline Obrien",
+    "USN": "4MH11EC058",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 1,
+        "externalMarks": 84,
+        "totalMarks": 85,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 15,
+        "externalMarks": 45,
+        "totalMarks": 60,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 25,
+        "externalMarks": 53,
+        "totalMarks": 78,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 24,
+        "externalMarks": 85,
+        "totalMarks": 109,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 15,
+        "externalMarks": 97,
+        "totalMarks": 112,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 55,
+        "totalMarks": 64,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 59,
+    "name": "Felecia Lindsey",
+    "USN": "4MH11EC059",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 25,
+        "externalMarks": 67,
+        "totalMarks": 92,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 12,
+        "externalMarks": 54,
+        "totalMarks": 66,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 63,
+        "totalMarks": 74,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 13,
+        "totalMarks": 32,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 96,
+        "totalMarks": 118,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 23,
+        "externalMarks": 16,
+        "totalMarks": 39,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 60,
+    "name": "Alma Bernard",
+    "USN": "4MH11EC060",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 32,
+        "totalMarks": 43,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 12,
+        "externalMarks": 27,
+        "totalMarks": 39,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 20,
+        "totalMarks": 42,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 46,
+        "totalMarks": 50,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 16,
+        "totalMarks": 40,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 69,
+        "totalMarks": 78,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 61,
+    "name": "Roberson Schmidt",
+    "USN": "4MH11EC061",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 19,
+        "totalMarks": 41,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 6,
+        "externalMarks": 35,
+        "totalMarks": 41,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 1,
+        "externalMarks": 38,
+        "totalMarks": 39,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 7,
+        "totalMarks": 23,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 13,
+        "externalMarks": 38,
+        "totalMarks": 51,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 6,
+        "externalMarks": 87,
+        "totalMarks": 93,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 62,
+    "name": "Kenya Jacobs",
+    "USN": "4MH11EC062",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 25,
+        "totalMarks": 43,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 15,
+        "externalMarks": 92,
+        "totalMarks": 107,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 1,
+        "externalMarks": 72,
+        "totalMarks": 73,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 68,
+        "totalMarks": 84,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 76,
+        "totalMarks": 99,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 12,
+        "externalMarks": 34,
+        "totalMarks": 46,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 63,
+    "name": "Parsons Adams",
+    "USN": "4MH11EC063",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 10,
+        "externalMarks": 87,
+        "totalMarks": 97,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 29,
+        "totalMarks": 45,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 10,
+        "externalMarks": 51,
+        "totalMarks": 61,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 1,
+        "externalMarks": 49,
+        "totalMarks": 50,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 68,
+        "totalMarks": 93,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 93,
+        "totalMarks": 107,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 64,
+    "name": "Stein Finch",
+    "USN": "4MH11EC064",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 33,
+        "totalMarks": 52,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 17,
+        "externalMarks": 34,
+        "totalMarks": 51,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 2,
+        "totalMarks": 24,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 3,
+        "externalMarks": 13,
+        "totalMarks": 16,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 25,
+        "externalMarks": 26,
+        "totalMarks": 51,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 91,
+        "totalMarks": 116,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 65,
+    "name": "Harriett Castaneda",
+    "USN": "4MH11EC065",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 33,
+        "totalMarks": 53,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 15,
+        "externalMarks": 80,
+        "totalMarks": 95,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 13,
+        "externalMarks": 71,
+        "totalMarks": 84,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 24,
+        "externalMarks": 16,
+        "totalMarks": 40,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 18,
+        "externalMarks": 60,
+        "totalMarks": 78,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 26,
+        "totalMarks": 41,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 66,
+    "name": "Dean Ramsey",
+    "USN": "4MH11EC066",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 72,
+        "totalMarks": 90,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 72,
+        "totalMarks": 97,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 28,
+        "totalMarks": 45,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 78,
+        "totalMarks": 103,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 9,
+        "externalMarks": 33,
+        "totalMarks": 42,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 24,
+        "externalMarks": 96,
+        "totalMarks": 120,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 67,
+    "name": "Mcguire Nolan",
+    "USN": "4MH11EC067",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 95,
+        "totalMarks": 106,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 94,
+        "totalMarks": 103,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 62,
+        "totalMarks": 79,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 11,
+        "externalMarks": 45,
+        "totalMarks": 56,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 21,
+        "externalMarks": 99,
+        "totalMarks": 120,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 7,
+        "externalMarks": 100,
+        "totalMarks": 107,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 68,
+    "name": "Klein Houston",
+    "USN": "4MH11EC068",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 47,
+        "totalMarks": 53,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 14,
+        "totalMarks": 33,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 75,
+        "totalMarks": 83,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 17,
+        "totalMarks": 31,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 10,
+        "totalMarks": 14,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 22,
+        "externalMarks": 14,
+        "totalMarks": 36,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 69,
+    "name": "Grace Pratt",
+    "USN": "4MH11EC069",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 4,
+        "totalMarks": 15,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 23,
+        "externalMarks": 82,
+        "totalMarks": 105,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 2,
+        "externalMarks": 49,
+        "totalMarks": 51,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 57,
+        "totalMarks": 70,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 7,
+        "externalMarks": 61,
+        "totalMarks": 68,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 20,
+        "externalMarks": 43,
+        "totalMarks": 63,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 70,
+    "name": "Mandy Moody",
+    "USN": "4MH11EC070",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 66,
+        "totalMarks": 68,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 63,
+        "totalMarks": 74,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 18,
+        "externalMarks": 77,
+        "totalMarks": 95,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 77,
+        "totalMarks": 79,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 37,
+        "totalMarks": 38,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 20,
+        "totalMarks": 29,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 71,
+    "name": "Danielle Morales",
+    "USN": "4MH11EC071",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 68,
+        "totalMarks": 82,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 32,
+        "totalMarks": 53,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 25,
+        "externalMarks": 49,
+        "totalMarks": 74,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 7,
+        "totalMarks": 26,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 8,
+        "externalMarks": 7,
+        "totalMarks": 15,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 8,
+        "externalMarks": 76,
+        "totalMarks": 84,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 72,
+    "name": "Candace Rivas",
+    "USN": "4MH11EC072",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 5,
+        "externalMarks": 74,
+        "totalMarks": 79,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 82,
+        "totalMarks": 93,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 3,
+        "externalMarks": 53,
+        "totalMarks": 56,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 9,
+        "externalMarks": 26,
+        "totalMarks": 35,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 50,
+        "totalMarks": 72,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 78,
+        "totalMarks": 103,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 73,
+    "name": "Michael Ramirez",
+    "USN": "4MH11EC073",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 59,
+        "totalMarks": 77,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 55,
+        "totalMarks": 58,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 21,
+        "externalMarks": 60,
+        "totalMarks": 81,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 19,
+        "totalMarks": 31,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 18,
+        "externalMarks": 58,
+        "totalMarks": 76,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 40,
+        "totalMarks": 54,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 74,
+    "name": "Santiago Patterson",
+    "USN": "4MH11EC074",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 21,
+        "externalMarks": 46,
+        "totalMarks": 67,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 23,
+        "externalMarks": 15,
+        "totalMarks": 38,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 88,
+        "totalMarks": 100,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 6,
+        "externalMarks": 47,
+        "totalMarks": 53,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 12,
+        "externalMarks": 36,
+        "totalMarks": 48,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 24,
+        "externalMarks": 42,
+        "totalMarks": 66,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 75,
+    "name": "Cara Ferrell",
+    "USN": "4MH11EC075",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 1,
+        "externalMarks": 80,
+        "totalMarks": 81,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 5,
+        "externalMarks": 53,
+        "totalMarks": 58,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 97,
+        "totalMarks": 114,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 17,
+        "externalMarks": 99,
+        "totalMarks": 116,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 23,
+        "totalMarks": 29,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 4,
+        "externalMarks": 22,
+        "totalMarks": 26,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 76,
+    "name": "Sheryl Terrell",
+    "USN": "4MH11EC076",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 21,
+        "externalMarks": 46,
+        "totalMarks": 67,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 95,
+        "totalMarks": 111,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 78,
+        "totalMarks": 98,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 18,
+        "externalMarks": 28,
+        "totalMarks": 46,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 5,
+        "externalMarks": 56,
+        "totalMarks": 61,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 4,
+        "externalMarks": 45,
+        "totalMarks": 49,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 77,
+    "name": "Stacy Brennan",
+    "USN": "4MH11EC077",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 53,
+        "totalMarks": 72,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 18,
+        "externalMarks": 6,
+        "totalMarks": 24,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 19,
+        "externalMarks": 8,
+        "totalMarks": 27,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 20,
+        "totalMarks": 39,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 3,
+        "externalMarks": 67,
+        "totalMarks": 70,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 19,
+        "externalMarks": 65,
+        "totalMarks": 84,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 78,
+    "name": "Murphy Petersen",
+    "USN": "4MH11EC078",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 21,
+        "externalMarks": 13,
+        "totalMarks": 34,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 17,
+        "externalMarks": 8,
+        "totalMarks": 25,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 25,
+        "externalMarks": 55,
+        "totalMarks": 80,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 20,
+        "externalMarks": 59,
+        "totalMarks": 79,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 89,
+        "totalMarks": 93,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 22,
+        "externalMarks": 14,
+        "totalMarks": 36,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 79,
+    "name": "Margie Dotson",
+    "USN": "4MH11EC079",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 39,
+        "totalMarks": 57,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 22,
+        "totalMarks": 31,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 9,
+        "externalMarks": 100,
+        "totalMarks": 109,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 82,
+        "totalMarks": 87,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 10,
+        "externalMarks": 73,
+        "totalMarks": 83,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 18,
+        "externalMarks": 43,
+        "totalMarks": 61,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 80,
+    "name": "Ashley Pickett",
+    "USN": "4MH11EC080",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 10,
+        "externalMarks": 11,
+        "totalMarks": 21,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 5,
+        "externalMarks": 34,
+        "totalMarks": 39,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 2,
+        "externalMarks": 55,
+        "totalMarks": 57,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 13,
+        "externalMarks": 30,
+        "totalMarks": 43,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 60,
+        "totalMarks": 82,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 14,
+        "totalMarks": 39,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 81,
+    "name": "Barnes Talley",
+    "USN": "4MH11EC081",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 13,
+        "externalMarks": 41,
+        "totalMarks": 54,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 70,
+        "totalMarks": 86,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 17,
+        "externalMarks": 23,
+        "totalMarks": 40,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 10,
+        "externalMarks": 60,
+        "totalMarks": 70,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 18,
+        "externalMarks": 88,
+        "totalMarks": 106,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 57,
+        "totalMarks": 72,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 82,
+    "name": "Acosta Carpenter",
+    "USN": "4MH11EC082",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 92,
+        "totalMarks": 108,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 14,
+        "externalMarks": 25,
+        "totalMarks": 39,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 6,
+        "externalMarks": 81,
+        "totalMarks": 87,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 22,
+        "externalMarks": 13,
+        "totalMarks": 35,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 62,
+        "totalMarks": 84,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 11,
+        "totalMarks": 32,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 83,
+    "name": "Valeria Roberson",
+    "USN": "4MH11EC083",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 95,
+        "totalMarks": 111,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 43,
+        "totalMarks": 68,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 63,
+        "totalMarks": 71,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 82,
+        "totalMarks": 87,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 35,
+        "totalMarks": 37,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 16,
+        "externalMarks": 65,
+        "totalMarks": 81,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 84,
+    "name": "Mcintyre Freeman",
+    "USN": "4MH11EC084",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 41,
+        "totalMarks": 63,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 68,
+        "totalMarks": 84,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 10,
+        "externalMarks": 62,
+        "totalMarks": 72,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 8,
+        "externalMarks": 53,
+        "totalMarks": 61,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 19,
+        "externalMarks": 1,
+        "totalMarks": 20,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 15,
+        "totalMarks": 40,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 85,
+    "name": "Lynch Michael",
+    "USN": "4MH11EC085",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 9,
+        "externalMarks": 16,
+        "totalMarks": 25,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 17,
+        "totalMarks": 38,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 2,
+        "externalMarks": 19,
+        "totalMarks": 21,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 64,
+        "totalMarks": 87,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 3,
+        "externalMarks": 28,
+        "totalMarks": 31,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 73,
+        "totalMarks": 82,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 86,
+    "name": "Phyllis Jones",
+    "USN": "4MH11EC086",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 5,
+        "totalMarks": 11,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 4,
+        "externalMarks": 68,
+        "totalMarks": 72,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 24,
+        "totalMarks": 32,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 17,
+        "externalMarks": 93,
+        "totalMarks": 110,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 99,
+        "totalMarks": 103,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 73,
+        "totalMarks": 94,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 87,
+    "name": "Burton Solis",
+    "USN": "4MH11EC087",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 48,
+        "totalMarks": 51,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 14,
+        "externalMarks": 83,
+        "totalMarks": 97,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 7,
+        "externalMarks": 47,
+        "totalMarks": 54,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 7,
+        "externalMarks": 45,
+        "totalMarks": 52,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 26,
+        "totalMarks": 27,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 56,
+        "totalMarks": 77,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 88,
+    "name": "Baxter Good",
+    "USN": "4MH11EC088",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 7,
+        "externalMarks": 48,
+        "totalMarks": 55,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 61,
+        "totalMarks": 86,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 13,
+        "externalMarks": 41,
+        "totalMarks": 54,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 12,
+        "externalMarks": 38,
+        "totalMarks": 50,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 7,
+        "externalMarks": 73,
+        "totalMarks": 80,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 22,
+        "externalMarks": 37,
+        "totalMarks": 59,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 89,
+    "name": "Sharlene Peters",
+    "USN": "4MH11EC089",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 68,
+        "totalMarks": 74,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 1,
+        "externalMarks": 30,
+        "totalMarks": 31,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 7,
+        "externalMarks": 54,
+        "totalMarks": 61,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 2,
+        "externalMarks": 49,
+        "totalMarks": 51,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 1,
+        "externalMarks": 21,
+        "totalMarks": 22,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 15,
+        "externalMarks": 89,
+        "totalMarks": 104,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 90,
+    "name": "Stephanie Landry",
+    "USN": "4MH11EC090",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 19,
+        "externalMarks": 37,
+        "totalMarks": 56,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 29,
+        "totalMarks": 39,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 15,
+        "externalMarks": 46,
+        "totalMarks": 61,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 57,
+        "totalMarks": 61,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 87,
+        "totalMarks": 110,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 11,
+        "externalMarks": 28,
+        "totalMarks": 39,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 91,
+    "name": "Curtis Casey",
+    "USN": "4MH11EC091",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 18,
+        "externalMarks": 66,
+        "totalMarks": 84,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 2,
+        "totalMarks": 5,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 10,
+        "externalMarks": 39,
+        "totalMarks": 49,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 24,
+        "totalMarks": 40,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 12,
+        "externalMarks": 86,
+        "totalMarks": 98,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 20,
+        "externalMarks": 69,
+        "totalMarks": 89,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 92,
+    "name": "Drake Cobb",
+    "USN": "4MH11EC092",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 5,
+        "externalMarks": 84,
+        "totalMarks": 89,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 8,
+        "externalMarks": 89,
+        "totalMarks": 97,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 25,
+        "externalMarks": 16,
+        "totalMarks": 41,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 24,
+        "externalMarks": 9,
+        "totalMarks": 33,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 16,
+        "externalMarks": 72,
+        "totalMarks": 88,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 12,
+        "externalMarks": 91,
+        "totalMarks": 103,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 93,
+    "name": "Sarah Hopkins",
+    "USN": "4MH11EC093",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 9,
+        "externalMarks": 14,
+        "totalMarks": 23,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 24,
+        "totalMarks": 34,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 21,
+        "externalMarks": 38,
+        "totalMarks": 59,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 41,
+        "totalMarks": 46,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 15,
+        "externalMarks": 12,
+        "totalMarks": 27,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 8,
+        "externalMarks": 3,
+        "totalMarks": 11,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 94,
+    "name": "Sybil Travis",
+    "USN": "4MH11EC094",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 20,
+        "totalMarks": 42,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 12,
+        "externalMarks": 4,
+        "totalMarks": 16,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 9,
+        "externalMarks": 27,
+        "totalMarks": 36,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 47,
+        "totalMarks": 72,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 36,
+        "totalMarks": 50,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 25,
+        "externalMarks": 14,
+        "totalMarks": 39,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 95,
+    "name": "Petra Prince",
+    "USN": "4MH11EC095",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 7,
+        "externalMarks": 2,
+        "totalMarks": 9,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 20,
+        "externalMarks": 43,
+        "totalMarks": 63,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 12,
+        "externalMarks": 17,
+        "totalMarks": 29,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 20,
+        "externalMarks": 39,
+        "totalMarks": 59,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 79,
+        "totalMarks": 81,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 3,
+        "externalMarks": 65,
+        "totalMarks": 68,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 96,
+    "name": "Spears Buchanan",
+    "USN": "4MH11EC096",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 52,
+        "totalMarks": 54,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 8,
+        "externalMarks": 45,
+        "totalMarks": 53,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 1,
+        "totalMarks": 17,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 21,
+        "externalMarks": 6,
+        "totalMarks": 27,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 21,
+        "externalMarks": 36,
+        "totalMarks": 57,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 1,
+        "externalMarks": 58,
+        "totalMarks": 59,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 97,
+    "name": "Rios Wallace",
+    "USN": "4MH11EC097",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 75,
+        "totalMarks": 95,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 7,
+        "totalMarks": 28,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 61,
+        "totalMarks": 83,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 90,
+        "totalMarks": 115,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 97,
+        "totalMarks": 121,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 11,
+        "externalMarks": 51,
+        "totalMarks": 62,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 98,
+    "name": "Pace Tucker",
+    "USN": "4MH11EC098",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 56,
+        "totalMarks": 76,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 10,
+        "externalMarks": 83,
+        "totalMarks": 93,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 24,
+        "externalMarks": 100,
+        "totalMarks": 124,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 17,
+        "externalMarks": 11,
+        "totalMarks": 28,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 12,
+        "externalMarks": 83,
+        "totalMarks": 95,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 3,
+        "totalMarks": 17,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 99,
+    "name": "Whitley Horne",
+    "USN": "4MH11EC099",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 22,
+        "totalMarks": 38,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 9,
+        "totalMarks": 12,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 100,
+        "totalMarks": 116,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 44,
+        "totalMarks": 67,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 21,
+        "externalMarks": 78,
+        "totalMarks": 99,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 23,
+        "externalMarks": 19,
+        "totalMarks": 42,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 100,
+    "name": "Katina Randolph",
+    "USN": "4MH11EC100",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 24,
+        "totalMarks": 44,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 6,
+        "externalMarks": 59,
+        "totalMarks": 65,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 19,
+        "totalMarks": 41,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 14,
+        "externalMarks": 73,
+        "totalMarks": 87,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 83,
+        "totalMarks": 105,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 24,
+        "externalMarks": 41,
+        "totalMarks": 65,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 101,
+    "name": "Carmella Merrill",
+    "USN": "4MH11EC101",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 3,
+        "externalMarks": 31,
+        "totalMarks": 34,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 89,
+        "totalMarks": 108,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 49,
+        "totalMarks": 65,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 22,
+        "externalMarks": 1,
+        "totalMarks": 23,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 5,
+        "externalMarks": 13,
+        "totalMarks": 18,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 21,
+        "externalMarks": 63,
+        "totalMarks": 84,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 102,
+    "name": "Gabriela Conrad",
+    "USN": "4MH11EC102",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 90,
+        "totalMarks": 110,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 45,
+        "totalMarks": 56,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 2,
+        "externalMarks": 83,
+        "totalMarks": 85,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 20,
+        "totalMarks": 24,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 5,
+        "externalMarks": 63,
+        "totalMarks": 68,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 22,
+        "externalMarks": 17,
+        "totalMarks": 39,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 103,
+    "name": "Gloria Maxwell",
+    "USN": "4MH11EC103",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 16,
+        "externalMarks": 46,
+        "totalMarks": 62,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 3,
+        "externalMarks": 31,
+        "totalMarks": 34,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 89,
+        "totalMarks": 100,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 23,
+        "externalMarks": 44,
+        "totalMarks": 67,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 8,
+        "externalMarks": 48,
+        "totalMarks": 56,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 52,
+        "totalMarks": 61,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 104,
+    "name": "Rachel Osborne",
+    "USN": "4MH11EC104",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 23,
+        "externalMarks": 57,
+        "totalMarks": 80,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 1,
+        "totalMarks": 22,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 1,
+        "externalMarks": 55,
+        "totalMarks": 56,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 39,
+        "totalMarks": 55,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 13,
+        "externalMarks": 67,
+        "totalMarks": 80,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 9,
+        "externalMarks": 73,
+        "totalMarks": 82,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 105,
+    "name": "Howell Clements",
+    "USN": "4MH11EC105",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 23,
+        "externalMarks": 38,
+        "totalMarks": 61,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 20,
+        "externalMarks": 10,
+        "totalMarks": 30,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 38,
+        "totalMarks": 46,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 10,
+        "externalMarks": 35,
+        "totalMarks": 45,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 4,
+        "totalMarks": 28,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 12,
+        "externalMarks": 18,
+        "totalMarks": 30,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 106,
+    "name": "Fleming Fleming",
+    "USN": "4MH11EC106",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 86,
+        "totalMarks": 88,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 9,
+        "externalMarks": 25,
+        "totalMarks": 34,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 13,
+        "externalMarks": 28,
+        "totalMarks": 41,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 9,
+        "externalMarks": 66,
+        "totalMarks": 75,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 3,
+        "externalMarks": 98,
+        "totalMarks": 101,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 35,
+        "totalMarks": 45,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 107,
+    "name": "Latasha Walker",
+    "USN": "4MH11EC107",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 4,
+        "externalMarks": 98,
+        "totalMarks": 102,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 51,
+        "totalMarks": 67,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 22,
+        "externalMarks": 49,
+        "totalMarks": 71,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 25,
+        "externalMarks": 18,
+        "totalMarks": 43,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 17,
+        "externalMarks": 92,
+        "totalMarks": 109,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 6,
+        "externalMarks": 77,
+        "totalMarks": 83,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 108,
+    "name": "Moody Vinson",
+    "USN": "4MH11EC108",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 14,
+        "externalMarks": 30,
+        "totalMarks": 44,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 17,
+        "externalMarks": 62,
+        "totalMarks": 79,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 14,
+        "externalMarks": 26,
+        "totalMarks": 40,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 49,
+        "totalMarks": 68,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 2,
+        "externalMarks": 70,
+        "totalMarks": 72,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 5,
+        "externalMarks": 45,
+        "totalMarks": 50,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 109,
+    "name": "Juana Vargas",
+    "USN": "4MH11EC109",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 21,
+        "externalMarks": 78,
+        "totalMarks": 99,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 25,
+        "externalMarks": 70,
+        "totalMarks": 95,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 10,
+        "totalMarks": 21,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 15,
+        "externalMarks": 84,
+        "totalMarks": 99,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 13,
+        "externalMarks": 4,
+        "totalMarks": 17,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 64,
+        "totalMarks": 78,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 110,
+    "name": "Levine Hunt",
+    "USN": "4MH11EC110",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 10,
+        "externalMarks": 3,
+        "totalMarks": 13,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 2,
+        "externalMarks": 19,
+        "totalMarks": 21,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 8,
+        "externalMarks": 5,
+        "totalMarks": 13,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 6,
+        "externalMarks": 73,
+        "totalMarks": 79,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 4,
+        "externalMarks": 90,
+        "totalMarks": 94,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 37,
+        "totalMarks": 47,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 111,
+    "name": "Hope Gonzalez",
+    "USN": "4MH11EC111",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 2,
+        "externalMarks": 95,
+        "totalMarks": 97,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 8,
+        "externalMarks": 55,
+        "totalMarks": 63,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 18,
+        "externalMarks": 74,
+        "totalMarks": 92,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 6,
+        "externalMarks": 63,
+        "totalMarks": 69,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 14,
+        "externalMarks": 89,
+        "totalMarks": 103,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 17,
+        "externalMarks": 55,
+        "totalMarks": 72,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 112,
+    "name": "Guadalupe Frost",
+    "USN": "4MH11EC112",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 17,
+        "externalMarks": 66,
+        "totalMarks": 83,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 20,
+        "externalMarks": 77,
+        "totalMarks": 97,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 14,
+        "externalMarks": 54,
+        "totalMarks": 68,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 11,
+        "externalMarks": 68,
+        "totalMarks": 79,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 85,
+        "totalMarks": 108,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 20,
+        "externalMarks": 84,
+        "totalMarks": 104,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "index": 113,
+    "name": "Strickland Rosario",
+    "USN": "4MH11EC113",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 24,
+        "externalMarks": 86,
+        "totalMarks": 110,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 50,
+        "totalMarks": 71,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 13,
+        "externalMarks": 33,
+        "totalMarks": 46,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 17,
+        "externalMarks": 43,
+        "totalMarks": 60,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 20,
+        "externalMarks": 89,
+        "totalMarks": 109,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 43,
+        "totalMarks": 57,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 114,
+    "name": "Vonda Palmer",
+    "USN": "4MH11EC114",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 20,
+        "externalMarks": 92,
+        "totalMarks": 112,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 19,
+        "externalMarks": 21,
+        "totalMarks": 40,
+        "subjectCode": 1,
+        "result": "FAIL"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 15,
+        "externalMarks": 50,
+        "totalMarks": 65,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 18,
+        "externalMarks": 4,
+        "totalMarks": 22,
+        "subjectCode": 3,
+        "result": "FAIL"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 9,
+        "totalMarks": 15,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 10,
+        "externalMarks": 2,
+        "totalMarks": 12,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 115,
+    "name": "Cox Reed",
+    "USN": "4MH11EC115",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 11,
+        "externalMarks": 98,
+        "totalMarks": 109,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 11,
+        "externalMarks": 92,
+        "totalMarks": 103,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 20,
+        "externalMarks": 48,
+        "totalMarks": 68,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 4,
+        "externalMarks": 96,
+        "totalMarks": 100,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 22,
+        "externalMarks": 83,
+        "totalMarks": 105,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 19,
+        "externalMarks": 29,
+        "totalMarks": 48,
+        "subjectCode": 5,
+        "result": "FAIL"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 116,
+    "name": "Battle Clemons",
+    "USN": "4MH11EC116",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 6,
+        "externalMarks": 33,
+        "totalMarks": 39,
+        "subjectCode": 0,
+        "result": "FAIL"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 7,
+        "externalMarks": 66,
+        "totalMarks": 73,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 11,
+        "externalMarks": 14,
+        "totalMarks": 25,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 19,
+        "externalMarks": 82,
+        "totalMarks": 101,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 19,
+        "externalMarks": 61,
+        "totalMarks": 80,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 2,
+        "externalMarks": 61,
+        "totalMarks": 63,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 117,
+    "name": "Gallegos Wilkinson",
+    "USN": "4MH11EC117",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 22,
+        "externalMarks": 34,
+        "totalMarks": 56,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 21,
+        "externalMarks": 60,
+        "totalMarks": 81,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 67,
+        "totalMarks": 83,
+        "subjectCode": 2,
+        "result": "PASS"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 5,
+        "externalMarks": 83,
+        "totalMarks": 88,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 6,
+        "externalMarks": 3,
+        "totalMarks": 9,
+        "subjectCode": 4,
+        "result": "FAIL"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 71,
+        "totalMarks": 85,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 118,
+    "name": "Marina Perry",
+    "USN": "4MH11EC118",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 4,
+        "externalMarks": 78,
+        "totalMarks": 82,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 16,
+        "externalMarks": 83,
+        "totalMarks": 99,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 16,
+        "externalMarks": 11,
+        "totalMarks": 27,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 11,
+        "externalMarks": 54,
+        "totalMarks": 65,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 24,
+        "externalMarks": 67,
+        "totalMarks": 91,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 14,
+        "externalMarks": 97,
+        "totalMarks": 111,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  },
+  {
+    "index": 119,
+    "name": "Alisha Banks",
+    "USN": "4MH11EC119",
+    "semester": 1,
+    "resultClass": "",
+    "subject": [
+      {
+        "id": 1,
+        "name": "Sem1_Subject1",
+        "internalMarks": 9,
+        "externalMarks": 92,
+        "totalMarks": 101,
+        "subjectCode": 0,
+        "result": "PASS"
+      },
+      {
+        "id": 2,
+        "name": "Sem1_Subject2",
+        "internalMarks": 20,
+        "externalMarks": 62,
+        "totalMarks": 82,
+        "subjectCode": 1,
+        "result": "PASS"
+      },
+      {
+        "id": 3,
+        "name": "Sem1_Subject3",
+        "internalMarks": 3,
+        "externalMarks": 39,
+        "totalMarks": 42,
+        "subjectCode": 2,
+        "result": "FAIL"
+      },
+      {
+        "id": 4,
+        "name": "Sem1_Subject4",
+        "internalMarks": 16,
+        "externalMarks": 72,
+        "totalMarks": 88,
+        "subjectCode": 3,
+        "result": "PASS"
+      },
+      {
+        "id": 5,
+        "name": "Sem1_Subject5",
+        "internalMarks": 23,
+        "externalMarks": 86,
+        "totalMarks": 109,
+        "subjectCode": 4,
+        "result": "PASS"
+      },
+      {
+        "id": 6,
+        "name": "Sem1_Subject6",
+        "internalMarks": 1,
+        "externalMarks": 87,
+        "totalMarks": 88,
+        "subjectCode": 5,
+        "result": "PASS"
+      }
+    ],
+    "result": "FAIL"
+  }
+]
