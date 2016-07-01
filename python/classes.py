@@ -10,10 +10,11 @@ class Student(object):
 
 
 class Subject(object):
-    def __init__(self, name, internalMarks, externalMarks, subjectCode, totalMarks=None, result = None):
+    def __init__(self, name, internalMarks, externalMarks, subjectCode, totalMarks=None, result=None, theory=None):
         self.name = name
         self.internalMarks = internalMarks
         self.externalMarks = externalMarks
         self.totalMarks = totalMarks
         self.subjectCode = subjectCode
         self.result = result
+        self.theory = theory
