@@ -2,7 +2,7 @@
 class Student(object):
     def __init__(self, name, USN, semester,subject,resultClass = None, totalMarks = None):
         self.name = name
-        self.USN = USN
+        self.usn = USN
         self.semester = semester
         self.subject = subject
         self.resultClass = resultClass
